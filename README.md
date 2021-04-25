@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kunal-Shah
 - 👀 I’m interested in Cloud Technologies.
 - 🌱 I’m currently learning Docker & K8s
-- 💞️ I’m looking to collaborate on Git - NewBee
+- 💞️ I’m looking to collaborate on Git ( Freshy here )
 - 📫 How to reach me - EMAIL - kunal.shah107@outlook.com
 
 <!---
