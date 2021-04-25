@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunal-Shah107
+- 👋 Hi, I’m Kunal-Shah
 - 👀 I’m interested in Cloud Technologies.
 - 🌱 I’m currently learning Docker & K8s
 - 💞️ I’m looking to collaborate on Git - NewBee
